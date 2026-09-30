@@ -2,7 +2,7 @@ name: Verify firmware
 
 on:
   push:
-    branches: [main]
+    branches: ["**"]
   pull_request:
   workflow_dispatch:
 
