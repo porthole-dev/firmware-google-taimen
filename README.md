@@ -1,6 +1,6 @@
 # Pixel 2 XL firmware from the Google factory image
 
-[Website](https://porthole-dev.github.io/porthole/) · [Downloads](https://porthole-dev.github.io/porthole/downloads/) · [Device support](https://porthole-dev.github.io/porthole/devices/)
+[Website](https://porthole-dev.github.io/porthole/) · [Downloads](https://porthole-dev.github.io/porthole/images/) · [Device support](https://porthole-dev.github.io/porthole/devices/)
 
 This repository holds the Taimen modem files and optional fingerprint trustlet
 that are absent from TheMuppets' vendor tree. The Nura `firmware-google-taimen`
